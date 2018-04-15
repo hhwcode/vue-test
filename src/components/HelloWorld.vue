@@ -23,6 +23,9 @@
       <el-col>
         <el-input v-model="input" placeholder="请输入内容"></el-input>
       </el-col>
+      <el-col>
+        <el-input v-model="input" placeholder="请输入内容"></el-input>
+      </el-col>
     </el-row>
   </div>
 </template>
