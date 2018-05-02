@@ -1,6 +1,6 @@
 # vue-test
 
-> A Vue.js project
+> 一个vue项目
 
 ## Build Setup
 
